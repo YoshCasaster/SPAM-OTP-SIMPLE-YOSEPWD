@@ -16,7 +16,7 @@
 3. **Pilih delay pengiriman**
 4. **Klik Tombol Kirim Done**
 5. **HASIL**
-   ![Hasil](./otpfoto.jpg)
+   ![Hasil](./hasil.jpg)
    
 ## LINK DOWNLOAD
 
