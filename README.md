@@ -20,4 +20,4 @@
    
 ## LINK DOWNLOAD
 
-[Download Here](https://drive.google.com/file/d/19Ymh70IDBwB455dDIqMTUfSiubOW9NIc/view?usp=sharing)
+[Download Here](https://www.mediafire.com/file/ysxcn0kv42r201c/SOTP.zip/file)
